@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+drawable calendar
+drawable drop
+drawable red_marker
+drawable temperature_sensor
+string mapbox_access_token
+style AppTheme

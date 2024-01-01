@@ -1,0 +1,12 @@
+Target dependency graph (5 targets)
+Target 'MapboxMaps' in project 'Pods'
+➜ Explicit dependency on target 'MapboxCommon' in project 'Pods'
+➜ Explicit dependency on target 'MapboxCoreMaps' in project 'Pods'
+➜ Explicit dependency on target 'MapboxMaps-MapboxMapsResources' in project 'Pods'
+➜ Explicit dependency on target 'Turf' in project 'Pods'
+Target 'MapboxMaps-MapboxMapsResources' in project 'Pods'
+➜ Implicit dependency on target 'Turf' in project 'Pods' via options '-framework Turf' in build setting 'OTHER_LDFLAGS'
+Target 'Turf' in project 'Pods' (no dependencies)
+Target 'MapboxCoreMaps' in project 'Pods'
+➜ Explicit dependency on target 'MapboxCommon' in project 'Pods'
+Target 'MapboxCommon' in project 'Pods' (no dependencies)

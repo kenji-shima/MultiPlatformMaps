@@ -1,0 +1,18 @@
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/RadianCoordinate2D.swift":
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.d"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.swiftconstvalues"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.o"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.swiftdeps"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/RadianCoordinate2D.dia"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Ring.swift":
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.d"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.swiftdeps"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.o"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.dia"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Ring.swiftconstvalues"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Simplifier.swift":
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.swiftdeps"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.dia"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.swiftconstvalues"
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.d"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Simplifier.o"

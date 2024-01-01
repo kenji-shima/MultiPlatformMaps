@@ -1,0 +1,18 @@
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/MultiPoint.swift":
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.swiftconstvalues"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.o"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.swiftdeps"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.dia"
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiPoint.d"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/LineString.swift":
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.dia"
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.d"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.swiftconstvalues"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.swiftdeps"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/LineString.o"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/MultiLineString.swift":
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.d"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.swiftdeps"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.o"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.dia"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/MultiLineString.swiftconstvalues"

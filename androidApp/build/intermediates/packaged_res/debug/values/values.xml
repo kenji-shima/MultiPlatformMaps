@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="mapbox_access_token" ns1:ignore="UnusedResources" translatable="false">pk.eyJ1Ijoia2Vuamktc2hpbWEiLCJhIjoiY2xhZ2NmZ3BiMGFqbzNubThpbWMxOXU3MCJ9.JlXUW8MwwX1LhhMnbWyUQw</string>
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar"/>
+</resources>

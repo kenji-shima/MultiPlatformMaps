@@ -1,0 +1,9 @@
+com.mapbox.multiplatformmaps.shared-pngs-0 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/generated/res/pngs/release
+com.mapbox.multiplatformmaps.shared-resValues-1 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/generated/res/resValues/release
+com.mapbox.multiplatformmaps.shared-mergeReleaseResources-2 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.mapbox.multiplatformmaps.shared-mergeReleaseResources-3 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.mapbox.multiplatformmaps.shared-merged_res-4 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/merged_res/release
+com.mapbox.multiplatformmaps.shared-androidMain-5 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/src/androidMain/res
+com.mapbox.multiplatformmaps.shared-androidRelease-6 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/src/androidRelease/res
+com.mapbox.multiplatformmaps.shared-main-7 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/src/main/res
+com.mapbox.multiplatformmaps.shared-release-8 /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/src/release/res

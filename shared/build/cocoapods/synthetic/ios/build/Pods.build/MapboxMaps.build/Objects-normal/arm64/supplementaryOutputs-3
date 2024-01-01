@@ -1,0 +1,9 @@
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Expressions/AllExpressions.swift":
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps-master.d"
+  objc-header: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps-Swift.h"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps-master.swiftconstvalues"
+  abi-baseline-json: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps.abi.json"
+  swiftsourceinfo: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps.swiftsourceinfo"
+  swiftmodule: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps.swiftmodule"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps-master.dia"
+  swiftdoc: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/build/Pods.build/MapboxMaps.build/Objects-normal/arm64/MapboxMaps.swiftdoc"

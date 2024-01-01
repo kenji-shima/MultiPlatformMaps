@@ -1,0 +1,130 @@
+{
+  "" : {
+    "const-values" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf-master.swiftconstvalues",
+    "dependencies" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf-master.d",
+    "diagnostics" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf-master.dia",
+    "emit-module-dependencies" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf-master.swiftdeps"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/BoundingBox.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/BoundingBox.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/BoundingBox.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/BoundingBox.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Codable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Codable.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Codable.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Codable.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Consumer/Consumer.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Consumer.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Consumer.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Consumer.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Consumer/Consumer+WKT.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Consumer+WKT.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Consumer+WKT.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Consumer+WKT.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/CoreLocation.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/CoreLocation.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/CoreLocation.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/CoreLocation.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Feature.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Feature.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Feature.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Feature.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/FeatureCollection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/FeatureCollection.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/FeatureCollection.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/FeatureCollection.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/FeatureIdentifier.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/FeatureIdentifier.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/FeatureIdentifier.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/FeatureIdentifier.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/GeoJSON.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/GeoJSON.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/GeoJSON.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/GeoJSON.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/GeometryCollection.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/GeometryCollection.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/GeometryCollection.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/GeometryCollection.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/LineString.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/LineString.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/LineString.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/LineString.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/MultiLineString.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiLineString.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiLineString.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiLineString.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/MultiPoint.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiPoint.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiPoint.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiPoint.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/MultiPolygon.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiPolygon.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiPolygon.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/MultiPolygon.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/Point.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Point.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Point.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Point.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometries/Polygon.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Polygon.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Polygon.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Polygon.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Geometry.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Geometry.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Geometry.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Geometry.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/JSON.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/JSON.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/JSON.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/JSON.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/RadianCoordinate2D.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/RadianCoordinate2D.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/RadianCoordinate2D.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/RadianCoordinate2D.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Ring.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Ring.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Ring.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Ring.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Simplifier.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Simplifier.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Simplifier.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Simplifier.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Spline.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Spline.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Spline.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Spline.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Turf.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/Turf.o"
+  },
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/WKT.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/WKT.o",
+    "llvm-bc" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/WKT.bc",
+    "object" : "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/build/Pods.build/Release-iphoneos/Turf.build/Objects-normal/arm64/WKT.o"
+  }
+}

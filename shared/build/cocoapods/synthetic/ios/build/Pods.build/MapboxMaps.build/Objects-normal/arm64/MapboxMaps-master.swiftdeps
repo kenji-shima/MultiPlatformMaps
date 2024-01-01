@@ -1,0 +1,671 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "9fdc766b41f5eb9b7806bfc33c1d90b38318d193adc59ba73e51f8b0d91b9e29"
+build_start_time: [1704015489, 923923000]
+build_end_time: [1704015524, 818144000]
+inputs:
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/AnnotatedFeature.swift"
+  : [1704015445, 189804356]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/AnnotationImagesManager.swift"
+  : [1704015445, 195029489]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/AnnotationManagerFactory.swift"
+  : [1704015445, 187805327]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/AnnotationOrchestrator.swift"
+  : [1704015445, 195685401]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/AnnotationOrchestratorImpl.swift"
+  : [1704015445, 190514768]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/ClusterOptions.swift"
+  : [1704015445, 191120389]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/CircleAnnotation.swift"
+  : [1704015445, 183093358]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/CircleAnnotationManager.swift"
+  : [1704015445, 186532419]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/PointAnnotation.swift"
+  : [1704015445, 187133290]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/PointAnnotationManager.swift"
+  : [1704015445, 184422099]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/PolygonAnnotation.swift"
+  : [1704015445, 185109511]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/PolygonAnnotationManager.swift"
+  : [1704015445, 182458195]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/PolylineAnnotation.swift"
+  : [1704015445, 183838394]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/Generated/PolylineAnnotationManager.swift"
+  : [1704015445, 185824423]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/OffsetGeometryCalculator.swift"
+  : [1704015445, 188465198]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/StyleManager+Extensions.swift"
+  : [1704015445, 189115152]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/ViewAnnotation.swift"
+  : [1704015445, 191845343]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/ViewAnnotationAnchorConfig.swift"
+  : [1704015445, 194438409]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/ViewAnnotationManager.swift"
+  : [1704015445, 192463880]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/ViewAnnotationOptions.swift"
+  : [1704015445, 193847788]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Annotations/ViewAnnotationPositionsUpdateListenerImpl.swift"
+  : [1704015445, 193063251]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/AnimationCompletion.swift"
+  : [1704015445, 35577311]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/AnimationOwner.swift"
+  : [1704015445, 39213496]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/AnimationType.swift"
+  : [1704015445, 38542042]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/BasicCameraAnimator.swift"
+  : [1704015445, 30762592]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/BasicCameraAnimatorImpl.swift"
+  : [1704015445, 37962254]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraAnimationsManager.swift"
+  : [1704015445, 31353547]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraAnimationsManagerImpl.swift"
+  : [1704015445, 30176637]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraAnimator.swift"
+  : [1704015445, 39944324]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraAnimatorsFactory.swift"
+  : [1704015445, 33157368]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraAnimatorsRunner.swift"
+  : [1704015445, 31939501]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraOptionsInterpolator.swift"
+  : [1704015445, 35006648]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraTransition.swift"
+  : [1704015445, 37358799]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/CameraView.swift"
+  : [1704015445, 33738573]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/FlyToCameraAnimator.swift"
+  : [1704015445, 34336277]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/FlyToInterpolator.swift"
+  : [1704015445, 36180015]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/GestureDecelerationCameraAnimator.swift"
+  : [1704015445, 32526956]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Camera/SimpleCameraAnimator.swift"
+  : [1704015445, 36789095]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/AnyCancelable+Combine.swift"
+  : [1704015445, 60207402]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/AnyCancelable.swift"
+  : [1704015445, 120758677]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/AttributionURLOpener.swift"
+  : [1704015445, 108851504]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CameraBounds.swift"
+  : [1704015445, 119596685]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CameraBoundsOptions.swift"
+  : [1704015445, 74157145]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CameraOptions.swift"
+  : [1704015445, 129967743]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CameraState.swift"
+  : [1704015445, 69799590]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Cancelable.swift"
+  : [1704015445, 57493628]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CollectionDiff.swift"
+  : [1704015445, 62076348]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CoreAliases.swift"
+  : [1704015445, 69218302]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CurrentValueSignalProxy.swift"
+  : [1704015445, 66675193]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/CurrentValueSignalSubject.swift"
+  : [1704015445, 116484788]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/DateProvider.swift"
+  : [1704015445, 70962041]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/DelegatingMapClient.swift"
+  : [1704015445, 108272050]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/DictionaryCoding/Array+CodingKey.swift"
+  : [1704015445, 64789039]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/DictionaryCoding/DictionaryEncoder.swift"
+  : [1704015445, 64209501]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Events/EventsManager.swift"
+  : [1704015445, 129287455]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Bool.swift"
+  : [1704015445, 106480061]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Bundle+MapboxMaps.swift"
+  : [1704015445, 105884648]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/CodingUserInfoKey+Custom.swift"
+  : [1704015445, 100602557]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Comparable+Clamped.swift"
+  : [1704015445, 102987708]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/CoordinateBounds.swift"
+  : [1704015445, 93474728]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/EdgeInsets.swift"
+  : [1704015445, 87010978]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/FeatureExtensionValue.swift"
+  : [1704015445, 88186096]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/FreeCameraOptions.swift"
+  : [1704015445, 85278740]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/GlyphsRasterizationOptions.swift"
+  : [1704015445, 90066959]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/LayerPosition.swift"
+  : [1704015445, 83721875]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/MapOptions.swift"
+  : [1704015445, 81770554]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/MapSnapshotOptions.swift"
+  : [1704015445, 92791608]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/OfflineRegion.swift"
+  : [1704015445, 92119779]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/OfflineRegionGeometryDefinition.swift"
+  : [1704015445, 88770384]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/OfflineRegionManager.swift"
+  : [1704015445, 89464879]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/OfflineSwitch.swift"
+  : [1704015445, 90658163]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/QueriedFeature.swift"
+  : [1704015445, 86422607]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/RenderedQueryOptions.swift"
+  : [1704015445, 91365742]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/ScreenBox.swift"
+  : [1704015445, 85848569]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/ScreenCoordinate.swift"
+  : [1704015445, 94087933]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/Size.swift"
+  : [1704015445, 87591308]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/Slot.swift"
+  : [1704015445, 84696327]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/StyleObjectInfo+3DPuck.swift"
+  : [1704015445, 82353092]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Core/TransitionOptions.swift"
+  : [1704015445, 82935130]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/CoreGraphics.swift"
+  : [1704015445, 100017311]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/CoreLocation.swift"
+  : [1704015445, 102370129]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/DateFormatter.swift"
+  : [1704015445, 104152076]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Dictionary+MapKeys.swift"
+  : [1704015445, 96988539]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Encodable+ToJSON.swift"
+  : [1704015445, 104737156]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/FloatingPoint.swift"
+  : [1704015445, 101200512]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Image.swift"
+  : [1704015445, 96401334]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Int.swift"
+  : [1704015445, 101786341]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/KebabCaseKeyDecodingStrategy.swift"
+  : [1704015445, 95248884]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/NSNumber.swift"
+  : [1704015445, 105317110]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/NSValue.swift"
+  : [1704015445, 94657388]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/RawRepresentable.swift"
+  : [1704015445, 80579145]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Turf/Feature.swift"
+  : [1704015445, 98821319]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Turf/Geometry.swift"
+  : [1704015445, 98218239]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/Turf/Polygon.swift"
+  : [1704015445, 99419065]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/UIEdgeInsets.swift"
+  : [1704015445, 107675512]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/UIFont.swift"
+  : [1704015445, 107083974]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/UIImage.swift"
+  : [1704015445, 103570080]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/UIView.swift"
+  : [1704015445, 79998732]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Extensions/UIWindow+ParentScene.swift"
+  : [1704015445, 95825422]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/ForwardingDispalyLinkTarget.swift"
+  : [1704015445, 59606406]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Helpers/CGPointCodable.swift"
+  : [1704015445, 130911736]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Helpers/CLLocationCoordinate2DCodable.swift"
+  : [1704015445, 132621934]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Helpers/MainQueueWrapper.swift"
+  : [1704015445, 131489191]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Helpers/UIEdgeInsetsCodable.swift"
+  : [1704015445, 132062187]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/InterfaceOrientationProvider.swift"
+  : [1704015445, 72122325]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/CoordinateInterpolator.swift"
+  : [1704015445, 126822096]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/DirectionInterpolator.swift"
+  : [1704015445, 127430926]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/DoubleInterpolator.swift"
+  : [1704015445, 123051371]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/LongitudeInterpolator.swift"
+  : [1704015445, 123625617]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/OptionalInterpolator.swift"
+  : [1704015445, 124216446]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/TimingCurve.swift"
+  : [1704015445, 126079643]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/UIEdgeInsetsInterpolator.swift"
+  : [1704015445, 124817817]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/UnitBezier.swift"
+  : [1704015445, 128028547]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Interpolators/WrappingInterpolator.swift"
+  : [1704015445, 125417105]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Logger.swift"
+  : [1704015445, 70388753]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapFeatureQueryable.swift"
+  : [1704015445, 78897198]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapInitOptions.swift"
+  : [1704015445, 118398901]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapPlayerOptions.swift"
+  : [1704015445, 73431566]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapRecorder.swift"
+  : [1704015445, 120177139]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapRecorderOptions.swift"
+  : [1704015445, 114686591]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapView+Attribution.swift"
+  : [1704015445, 117074451]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapView+Snapshot.swift"
+  : [1704015445, 68068893]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapView.swift"
+  : [1704015445, 72829320]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapViewDependencyProvider.swift"
+  : [1704015445, 114115220]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapViewMetricsReporter.swift"
+  : [1704015445, 118998938]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapboxMap.swift"
+  : [1704015445, 67461813]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/MapboxMapsOptions.swift"
+  : [1704015445, 78319410]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/ObjectWrapper.swift"
+  : [1704015445, 115888292]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Optional+Extensions.swift"
+  : [1704015445, 117658697]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Projection.swift"
+  : [1704015445, 137247154]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Reexports.swift"
+  : [1704015445, 60805898]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Ref.swift"
+  : [1704015445, 71541995]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/RetroactiveConformances/BundleProtocol.swift"
+  : [1704015445, 111079948]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/RetroactiveConformances/DispatchQueueProtocol.swift"
+  : [1704015445, 113413975]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/RetroactiveConformances/DisplayLinkProtocol.swift"
+  : [1704015445, 109916289]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/RetroactiveConformances/NotificationCenterProtocol.swift"
+  : [1704015445, 112826937]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/RetroactiveConformances/TimerProtocol.swift"
+  : [1704015445, 110501285]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/RetroactiveConformances/UIApplicationProtocol.swift"
+  : [1704015445, 111673527]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/RetroactiveConformances/UIDeviceProtocol.swift"
+  : [1704015445, 112249607]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Signal/ClosureHandlersStore.swift"
+  : [1704015445, 134366297]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Signal/Signal+Combine.swift"
+  : [1704015445, 136090286]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Signal/Signal+Tracing.swift"
+  : [1704015445, 135526498]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Signal/Signal.swift"
+  : [1704015445, 134950127]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Signal/SignalObservingAdapter.swift"
+  : [1704015445, 136664366]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Signal/SignalSubject.swift"
+  : [1704015445, 133676469]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/TileCoverOptions.swift"
+  : [1704015445, 65376243]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Tracing.swift"
+  : [1704015445, 121417173]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Utils.swift"
+  : [1704015445, 121997711]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Utils/BidirectionalMap.swift"
+  : [1704015445, 77581456]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Utils/CameraDebugView.swift"
+  : [1704015445, 76420380]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Utils/FeatureIdentifier+Extensions.swift"
+  : [1704015445, 75835259]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Utils/MapViewDebugOptions.swift"
+  : [1704015445, 77005293]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/Utils/Once.swift"
+  : [1704015445, 75252971]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/ValueAnimator.swift"
+  : [1704015445, 66096572]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/ViewAnnotationsContainer.swift"
+  : [1704015445, 115309212]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Foundation/WeakSet.swift"
+  : [1704015445, 68638181]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/AnyTouchGestureHandler.swift"
+  : [1704015445, 204682551]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/DoubleTapToZoomInGestureHandler.swift"
+  : [1704015445, 199101421]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/DoubleTouchToZoomOutGestureHandler.swift"
+  : [1704015445, 202931021]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/FocusableGestureHandlerProtocol.swift"
+  : [1704015445, 204111513]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/GestureHandler.swift"
+  : [1704015445, 201025033]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/InterruptDecelerationGestureHandler.swift"
+  : [1704015445, 198484800]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/LongPressGestureHandler.swift"
+  : [1704015445, 202346317]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/PanGestureHandler.swift"
+  : [1704015445, 199832208]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/PinchGestureHandler.swift"
+  : [1704015445, 201773195]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/PitchGestureHandler.swift"
+  : [1704015445, 200429037]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/QuickZoomGestureHandler.swift"
+  : [1704015445, 205273714]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/RotateGestureHandler.swift"
+  : [1704015445, 205951001]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureHandlers/SingleTapGestureHandler.swift"
+  : [1704015445, 203528767]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureManager.swift"
+  : [1704015445, 209029148]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureOptions.swift"
+  : [1704015445, 207324826]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureRecognizers/TouchBeganGestureRecognizer.swift"
+  : [1704015445, 208401819]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/GestureType.swift"
+  : [1704015445, 197499014]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/MapContentGestureContext.swift"
+  : [1704015445, 206531456]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Gestures/MapContentGestureManager.swift"
+  : [1704015445, 196920893]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/AppleLocationProvider.swift"
+  : [1704015445, 44793501]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/CLLocationManagerDelegateProxy.swift"
+  : [1704015445, 42171602]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/CLLocationManagerProtocol.swift"
+  : [1704015445, 56385843]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Heading.swift"
+  : [1704015445, 43463052]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/HeadingInterpolator.swift"
+  : [1704015445, 44038631]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/HeadingProvider.swift"
+  : [1704015445, 55687806]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Location.swift"
+  : [1704015445, 41010318]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/LocationInterpolator.swift"
+  : [1704015445, 45986785]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/LocationManager.swift"
+  : [1704015445, 54974977]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/LocationOptions.swift"
+  : [1704015445, 45378456]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/LocationPermissionsDelegate.swift"
+  : [1704015445, 41583439]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/ModelAdapters.swift"
+  : [1704015445, 42737681]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Puck/Puck2DRenderer.swift"
+  : [1704015445, 52568285]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Puck/Puck3DRenderer.swift"
+  : [1704015445, 53745069]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Puck/PuckManager.swift"
+  : [1704015445, 51880039]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Puck/PuckRenderer.swift"
+  : [1704015445, 53141864]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Puck/PuckRenderingData.swift"
+  : [1704015445, 54342940]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Location/Puck/PuckType.swift"
+  : [1704015445, 51291209]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/MapEvents/CoreEventsExtensions.swift"
+  : [1704015445, 180250043]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/MapEvents/MapEvents+Deprecated.swift"
+  : [1704015445, 179659671]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/MapEvents/MapEvents.swift"
+  : [1704015445, 178992717]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/OfflineCallbacks.swift"
+  : [1704015445, 251963912]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/OfflineErrors.swift"
+  : [1704015445, 253141030]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/OfflineManager+MapboxMaps.swift"
+  : [1704015445, 254885685]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/StylePackLoadOptions+MapboxMaps.swift"
+  : [1704015445, 256766340]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/TileRegionLoadOptions+MapboxMaps.swift"
+  : [1704015445, 251389416]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/TileStore+MapboxMaps.swift"
+  : [1704015445, 256183343]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/TileStoreObserver.swift"
+  : [1704015445, 252550200]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/TileStoreObserverCancelable.swift"
+  : [1704015445, 254280439]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/TileStoreObserverWrapper.swift"
+  : [1704015445, 255455557]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Offline/TilesetDescriptorOptions+MapboxMaps.swift"
+  : [1704015445, 253711901]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/Compass/CompassDirectionFormatter.swift"
+  : [1704015445, 219638746]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/Compass/MapboxCompassOrnamentView.swift"
+  : [1704015445, 248144229]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/DistanceFormatter.swift"
+  : [1704015445, 250421089]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/InfoButtonOrnament.swift"
+  : [1704015445, 216087228]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/LogoView.swift"
+  : [1704015445, 216836806]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/OrnamentOptions.swift"
+  : [1704015445, 214877069]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/OrnamentsManager.swift"
+  : [1704015445, 215509023]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/PaddingDebugView.swift"
+  : [1704015445, 211742047]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/ScaleBar/MapboxScaleBarConstants.swift"
+  : [1704015445, 212774082]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/ScaleBar/MapboxScaleBarLabel.swift"
+  : [1704015445, 213534952]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Ornaments/ScaleBar/MapboxScaleBarOrnamentView.swift"
+  : [1704015445, 214275406]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Snapshot/AttributionMeasure.swift"
+  : [1704015445, 10090184]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Snapshot/AttributionView.swift"
+  : [1704015445, 9365230]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Snapshot/SnapshotOverlay.swift"
+  : [1704015445, 8788067]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Snapshot/Snapshotter.swift"
+  : [1704015445, 10767430]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Attribution.swift"
+  : [1704015445, 170087358]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/AttributionDialogManager.swift"
+  : [1704015445, 176065528]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/CustomLayer.swift"
+  : [1704015445, 159299886]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/EmptyCustomRenderer.swift"
+  : [1704015445, 170804937]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Atmosphere.swift"
+  : [1704015445, 147483879]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Expressions/AllExpressions.swift"
+  : [1704015445, 149722740]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/BackgroundLayer.swift"
+  : [1704015445, 139126267]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/CircleLayer.swift"
+  : [1704015445, 146212596]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/FillExtrusionLayer.swift"
+  : [1704015445, 139848429]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/FillLayer.swift"
+  : [1704015445, 144239942]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/HeatmapLayer.swift"
+  : [1704015445, 144828855]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/HillshadeLayer.swift"
+  : [1704015445, 141340377]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/LineLayer.swift"
+  : [1704015445, 142027373]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/LocationIndicatorLayer.swift"
+  : [1704015445, 142846618]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/ModelLayer.swift"
+  : [1704015445, 143547905]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/RasterLayer.swift"
+  : [1704015445, 145518600]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/SkyLayer.swift"
+  : [1704015445, 146913716]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Layers/SymbolLayer.swift"
+  : [1704015445, 140592466]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Light/AmbientLight.swift"
+  : [1704015445, 155881742]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Light/DirectionalLight.swift"
+  : [1704015445, 154734957]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Light/FlatLight.swift"
+  : [1704015445, 155310537]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Properties/Properties.swift"
+  : [1704015445, 148669788]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Sources/GeoJSONSource.swift"
+  : [1704015445, 150673192]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Sources/ImageSource.swift"
+  : [1704015445, 151255397]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Sources/RasterDemSource.swift"
+  : [1704015445, 151833184]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Sources/RasterSource.swift"
+  : [1704015445, 153619756]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Sources/SourceProperties.swift"
+  : [1704015445, 153018969]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Sources/VectorSource.swift"
+  : [1704015445, 152430514]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Generated/Terrain.swift"
+  : [1704015445, 156455280]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Layer.swift"
+  : [1704015445, 177884100]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/LayerInfo.swift"
+  : [1704015445, 157594856]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/LayerType.swift"
+  : [1704015445, 157017943]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/LightInfo.swift"
+  : [1704015445, 159880758]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/LightType.swift"
+  : [1704015445, 158726057]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/MapStyle.swift"
+  : [1704015445, 171527766]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/MapStyleReconciler.swift"
+  : [1704015445, 175457490]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/ModelSource.swift"
+  : [1704015445, 173528294]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Source.swift"
+  : [1704015445, 158159852]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/SourceInfo.swift"
+  : [1704015445, 169356280]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/SourceType.swift"
+  : [1704015445, 168094621]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Style+Deprecation.swift"
+  : [1704015445, 174737203]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Style+Localization.swift"
+  : [1704015445, 167455250]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleEncodable.swift"
+  : [1704015445, 168775408]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleErrors.swift"
+  : [1704015445, 166062509]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleImportConfiguration.swift"
+  : [1704015445, 166728880]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleManager.swift"
+  : [1704015445, 177292145]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleManagerProtocol.swift"
+  : [1704015445, 172922132]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleProjection.swift"
+  : [1704015445, 176660357]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleSourceManager.swift"
+  : [1704015445, 174148874]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/StyleURI.swift"
+  : [1704015445, 172115095]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/Expression.swift"
+  : [1704015445, 161540080]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/ExpressionArgumentBuilder.swift"
+  : [1704015445, 163498817]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/ExpressionOptions.swift"
+  : [1704015445, 165481846]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/GeoJSONSourceData.swift"
+  : [1704015445, 162895571]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/PromoteId.swift"
+  : [1704015445, 160852626]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/ResolvedImage.swift"
+  : [1704015445, 162132118]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/StyleColor.swift"
+  : [1704015445, 164262521]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Style/Types/Value.swift"
+  : [1704015445, 164883309]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Annotations/Generated/CircleAnnotationGroup.swift"
+  : [1704015445, 273779355]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Annotations/Generated/PointAnnotationGroup.swift"
+  : [1704015445, 276156256]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Annotations/Generated/PolygonAnnotationGroup.swift"
+  : [1704015445, 277245291]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Annotations/Generated/PolylineAnnotationGroup.swift"
+  : [1704015445, 274953472]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Annotations/LayerAnnotationCoordinator.swift"
+  : [1704015445, 279584942]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Annotations/MapViewAnnotation.swift"
+  : [1704015445, 282395882]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Annotations/ViewAnnotationCoordinator.swift"
+  : [1704015445, 278282492]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Builders/AnnotationGroup.swift"
+  : [1704015445, 267905726]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Builders/ForEvery.swift"
+  : [1704015445, 268925636]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Builders/MapContent.swift"
+  : [1704015445, 266878358]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Builders/MapContentBuilder.swift"
+  : [1704015445, 263815253]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Builders/MapContentVisitor.swift"
+  : [1704015445, 264830621]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Builders/Puck2D.swift"
+  : [1704015445, 270132837]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Builders/Puck3D.swift"
+  : [1704015445, 265865406]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Deps.swift"
+  : [1704015445, 257873999]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Map+Events.swift"
+  : [1704015445, 271296412]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Map+Gestures.swift"
+  : [1704015445, 288853382]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Map+URLOpener.swift"
+  : [1704015445, 285497237]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Map.swift"
+  : [1704015445, 293715101]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/MapBasicCoordinator.swift"
+  : [1704015445, 294828344]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/MapOrnaments.swift"
+  : [1704015445, 291961446]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/MapProxy.swift"
+  : [1704015445, 295897045]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/MapReader.swift"
+  : [1704015445, 283469042]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/MapViewFacade.swift"
+  : [1704015445, 286574980]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Util/Signal+Extensions.swift"
+  : [1704015445, 261828724]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Util/SwiftUIEdgeInsets.swift"
+  : [1704015445, 260650731]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Util/Util.swift"
+  : [1704015445, 261240019]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Util/View+OnSizeChange.swift"
+  : [1704015445, 262416345]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Viewport/Viewport.swift"
+  : [1704015445, 259684904]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/SwiftUI/Viewport/ViewportAnimation.swift"
+  : [1704015445, 258975617]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/States/CameraViewportState.swift"
+  : [1704015445, 12986124]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/States/FollowPuck/FollowPuckViewportState.swift"
+  : [1704015445, 13971992]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/States/FollowPuck/FollowPuckViewportStateBearing.swift"
+  : [1704015445, 15125943]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/States/FollowPuck/FollowPuckViewportStateOptions.swift"
+  : [1704015445, 14543030]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/States/Overview/OverviewViewportState.swift"
+  : [1704015445, 16219978]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/States/Overview/OverviewViewportStateOptions.swift"
+  : [1704015445, 16960056]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/CameraOptionsComponent.swift"
+  : [1704015445, 24826006]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/DefaultViewportTransition.swift"
+  : [1704015445, 22498812]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/DefaultViewportTransitionAnimation.swift"
+  : [1704015445, 24243134]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/DefaultViewportTransitionAnimationFactory.swift"
+  : [1704015445, 19578039]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/DefaultViewportTransitionAnimationHelper.swift"
+  : [1704015445, 20733615]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/DefaultViewportTransitionAnimationSpec.swift"
+  : [1704015445, 20160869]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/DefaultViewportTransitionAnimationSpecProvider.swift"
+  : [1704015445, 21911358]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/DefaultViewportTransitionOptions.swift"
+  : [1704015445, 21326903]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/HighZoomToLowZoomAnimationSpecProvider.swift"
+  : [1704015445, 23076017]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Default/LowZoomToHighZoomAnimationSpecProvider.swift"
+  : [1704015445, 23664888]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/Transitions/Immediate/ImmediateViewportTransition.swift"
+  : [1704015445, 25947957]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/ViewportManager.swift"
+  : [1704015445, 28610398]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/ViewportManagerImpl.swift"
+  : [1704015445, 27304281]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/ViewportOptions.swift"
+  : [1704015445, 27896736]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/ViewportState.swift"
+  : [1704015445, 11851048]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/ViewportStatus.swift"
+  : [1704015445, 26548953]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/ViewportStatusObserver.swift"
+  : [1704015445, 18102549]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/MapboxMaps/Sources/MapboxMaps/Viewport/ViewportTransition.swift"
+  : [1704015445, 17537052]

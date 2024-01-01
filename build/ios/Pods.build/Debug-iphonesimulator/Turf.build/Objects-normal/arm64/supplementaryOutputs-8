@@ -1,0 +1,18 @@
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Turf.swift":
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.swiftdeps"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.dia"
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.d"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.swiftconstvalues"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Turf.o"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/WKT.swift":
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.d"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.swiftdeps"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.o"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.dia"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/WKT.swiftconstvalues"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Spline.swift":
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.d"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.swiftdeps"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.o"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.dia"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Spline.swiftconstvalues"

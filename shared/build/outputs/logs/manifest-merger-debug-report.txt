@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml:2:13-83
+INJECTED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml:2:13-83
+	package
+		INJECTED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml
+	xmlns:android
+		ADDED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml:2:23-81
+uses-sdk
+INJECTED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml reason: use-sdk injection requested
+INJECTED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml
+INJECTED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml
+	android:minSdkVersion
+		INJECTED from /Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest14129887588870628263.xml

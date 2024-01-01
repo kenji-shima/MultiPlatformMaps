@@ -1,0 +1,49 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "c396484ca82c6e19c51dcf8971fb1825ec3ac0e02f105f5573bdc91c60256a83"
+build_start_time: [1704015485, 29612000]
+build_end_time: [1704015490, 234753000]
+inputs:
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/BoundingBox.swift"
+  : [1704015445, 307833510]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Codable.swift"
+  : [1704015445, 317039825]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Consumer/Consumer+WKT.swift"
+  : [1704015445, 334681294]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Consumer/Consumer.swift"
+  : [1704015445, 333492719]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/CoreLocation.swift"
+  : [1704015445, 331626398]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Feature.swift"
+  : [1704015445, 308958377]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/FeatureCollection.swift"
+  : [1704015445, 315916291]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/FeatureIdentifier.swift"
+  : [1704015445, 311228863]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/GeoJSON.swift"
+  : [1704015445, 330368489]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometries/GeometryCollection.swift"
+  : [1704015445, 324524194]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometries/LineString.swift"
+  : [1704015445, 325756144]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometries/MultiLineString.swift"
+  : [1704015445, 328081379]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometries/MultiPoint.swift"
+  : [1704015445, 323492408]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometries/MultiPolygon.swift"
+  : [1704015445, 329163955]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometries/Point.swift"
+  : [1704015445, 322458582]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometries/Polygon.swift"
+  : [1704015445, 327008011]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Geometry.swift"
+  : [1704015445, 305537774]
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/JSON.swift": [1704015445, 314555466]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/RadianCoordinate2D.swift"
+  : [1704015445, 336794239]
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Ring.swift": [1704015445, 319677558]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Simplifier.swift"
+  : [1704015445, 320734260]
+  ? "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Spline.swift"
+  : [1704015445, 310128078]
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/Turf.swift": [1704015445, 335758204]
+  "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/shared/build/cocoapods/synthetic/ios/Pods/Turf/Sources/Turf/WKT.swift": [1704015445, 306676850]

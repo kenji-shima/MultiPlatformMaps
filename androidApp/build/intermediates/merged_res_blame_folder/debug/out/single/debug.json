@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.mapbox.multiplatformmaps.android.androidApp-merged_res-57:/drawable_temperature_sensor.png.flat",
+        "source": "com.mapbox.multiplatformmaps.android.androidApp-main-59:/drawable/temperature_sensor.png"
+    },
+    {
+        "merged": "/Users/kenjishima/.gradle/daemon/8.0/com.mapbox.multiplatformmaps.android.androidApp-merged_res-57:/drawable_red_marker.xml.flat",
+        "source": "/Users/kenjishima/.gradle/daemon/8.0/com.mapbox.multiplatformmaps.android.androidApp-main-59:/drawable/red_marker.xml"
+    },
+    {
+        "merged": "/Users/kenjishima/.gradle/daemon/8.0/com.mapbox.multiplatformmaps.android.androidApp-merged_res-57:/drawable_calendar.png.flat",
+        "source": "/Users/kenjishima/.gradle/daemon/8.0/com.mapbox.multiplatformmaps.android.androidApp-main-59:/drawable/calendar.png"
+    },
+    {
+        "merged": "com.mapbox.multiplatformmaps.android.androidApp-merged_res-57:/drawable_drop.png.flat",
+        "source": "com.mapbox.multiplatformmaps.android.androidApp-main-59:/drawable/drop.png"
+    }
+]

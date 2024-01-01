@@ -1,0 +1,18 @@
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/BoundingBox.swift":
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.dia"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.swiftconstvalues"
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.d"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.o"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/BoundingBox.swiftdeps"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Codable.swift":
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.swiftdeps"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.swiftconstvalues"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.o"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.dia"
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Codable.d"
+"/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/iosApp/Pods/Turf/Sources/Turf/Consumer/Consumer.swift":
+  dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.d"
+  object: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.o"
+  const-values: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.swiftconstvalues"
+  swift-dependencies: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.swiftdeps"
+  diagnostics: "/Users/kenjishima/AndroidStudioProjects/MultiPlatformMaps/build/ios/Pods.build/Debug-iphonesimulator/Turf.build/Objects-normal/arm64/Consumer.dia"

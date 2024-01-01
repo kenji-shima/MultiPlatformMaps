@@ -1,0 +1,3 @@
+language = Objective-C
+modules = MapboxMaps
+linkerOpts = -framework MapboxMaps

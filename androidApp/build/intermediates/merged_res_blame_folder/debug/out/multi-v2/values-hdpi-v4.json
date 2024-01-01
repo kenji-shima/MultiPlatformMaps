@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.mapbox.multiplatformmaps.android.androidApp-mergeDebugResources-55:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/kenjishima/.gradle/caches/transforms-3/a40e715f5edcea27232d98f4f5163e1c/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
